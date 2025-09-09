@@ -1,0 +1,24 @@
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux system files
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore compiled scripts
+*.out
+*.o
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore backup files
+*~
