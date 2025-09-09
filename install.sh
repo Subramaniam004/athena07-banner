@@ -9,7 +9,7 @@ YELLOW="\e[33m"
 BLUE="\e[34m"
 RESET="\e[0m"
 
-BANNER_URL="https://raw.githubusercontent.com/YOUR-USERNAME/athena07-banner/main/athena07-banner.sh"
+BANNER_URL="https://raw.githubusercontent.com/Subramaniam004/athena07-banner/main/athena07-banner.sh"
 INSTALL_DIR="$HOME"
 BANNER_SCRIPT="$INSTALL_DIR/athena07-banner.sh"
 
